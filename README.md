@@ -1,4 +1,4 @@
-# XAI Pneumonia Detection — Ahmed Assem (Teammate 2)
+# XAI Pneumonia Detection — Ahmed Assem 
 ### [XAI-Project-Team-19](https://github.com/ahmed2005Ihab/XAI-Project-Team-19) · Branch: `Ahmed-Assem` · Team 19
 
 This branch contains the full pipeline for **three pretrained CNN models** — CheXNet (DenseNet-121), EfficientNet-B4, and Xception — each trained for binary pneumonia detection on the RSNA dataset and explained with four XAI techniques.
